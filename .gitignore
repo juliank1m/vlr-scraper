@@ -1,0 +1,6 @@
+/old/
+/testing/
+.venv/
+__pycache__/
+data/raw/
+.DS_Store

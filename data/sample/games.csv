@@ -1,0 +1,4 @@
+match_id|game_id|map_number|map_name|team1_score|team2_score|winner
+900001|900011|1|Ascent|13|9|Team Ember
+900001|900012|2|Bind|10|13|Team Nova
+900001|900013|3|Haven|13|11|Team Ember
